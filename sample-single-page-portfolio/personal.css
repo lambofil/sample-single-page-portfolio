@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-container {
+    display: flex;
+    flex: 5px;
+}
+
+.apex-container1 {
+    background-color: #3DDB85;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.apple {
+    font-family: "Gill Sans MT";
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.angel {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: none;
+}
+
+.anabel {
+    color: white;
+    text-align: center;
+}
+
+.annex {
+    text-align: center;
+}
+
+.bolivia {
+    display: flex;
+    justify-content: safe;
+}
+
+.boston {
+    display: flex;
+    justify-content: safe;
+}
+
+.biscuit {
+    color: white;
+}
+
+.bulgaria {
+    display: flex;
+    justify-content: safe;
+}
+
+.burger {
+    color: white;
+}
+
+.britain {
+    display: flex;
+    justify-content: safe;
+}
+
+.bons {
+    color: white;
+}
+
+.burkinafaso {
+    display: flex;
+    justify-content: safe;
+}
+
+.banana {
+    color: white;
+}
+
+.brikiti {
+    display: flex;
+    justify-content: safe;
+}
+
+.bread {
+    color: white;
+}
+
+.brook {
+    display: flex;
+    justify-content: safe;
+}
+
+.beans {
+    color: white;
+}
+
+.barrel {
+    background-color: cornflowerblue;
+    width: 50px;
+    height: 16px;
+    display: flex;
+    border: 1px solid cornflowerblue;
+    text-align: center;
+}
+
+.bullet {
+    color: white;
+    font-size: x-small;
+}
+
+.beauty {
+    background-color: #3ddb85;
+    border: none;
+}
+
+.bliss {
+    font-size: x-small;
+    color: white;
+}
+
+.apex-container2 {
+    background-color: white;
+    margin-left: 3%;
+}
+
+.callisie {
+    display: flex;
+    justify-content: space-around;
+    background-color: #F5F5F5;
+    ;
+}
+
+.cassandra {
+    height: 280px;
+}
+
+.cassie {
+    font-size: x-large;
+    font-family: Arial;
+}
+
+.clara {
+    font-size: medium;
+}
+
+.collel {
+    background-color: #3ddb85;
+    border: none;
+    padding: 5px;
+}
+
+.coffie {
+    background-color: #332421;
+    padding: 5px;
+    border: none;
+}
+
+.cadbury {
+    color: white;
+}
+
+.ceaser {
+    color: white;
+}
+
+.coleman {
+    font-size: large;
+    font-family: Arial;
+}
+
+.cobra {
+    font-size: small;
+}
+
+.candy {
+    font-size: small;
+}
+
+.cashew {
+    font-size: small;
+}
+
+.calabash {
+    font-size: small;
+}
+
+.cinamon {
+    display: flex;
+}
